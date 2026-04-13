@@ -3,7 +3,7 @@
 
 
 def saludar():
-    print("Hola Juan como andas")
+    print(f'Hola Juan como andas, {x}')
 
 
 def give_number(x):
@@ -14,5 +14,3 @@ def give_number(x):
 
 
 output = give_number(3)
-
-y = 'carlos se vendio al barrio de lanus'
