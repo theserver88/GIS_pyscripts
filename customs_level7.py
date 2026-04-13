@@ -3,6 +3,6 @@
 
 
 def saludar():
-    print("Hola Carlos como andas")
+    print("Hola Juan como andas")
     
 
