@@ -2,10 +2,6 @@
 
 
 
-def saludar():
-    print("quien te conoce papa")
-
-
 def give_number(x):
     if x == 3:
         print("dritte")
