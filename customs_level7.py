@@ -2,11 +2,12 @@
 
 
 
-def give_number(x):
-    if x == 3:
-        print("dritte")
-    else:
-        return x
+
+x = input("inserte su numero aqui: ")
+if x == '3':
+print("dritte")
+else:
+return x
 
 
-output = give_number(3)
+
