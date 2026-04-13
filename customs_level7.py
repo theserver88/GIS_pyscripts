@@ -3,7 +3,7 @@
 
 
 def saludar():
-    print(f'Hola Juan como andas, {x}')
+    print(f'Hola Juan como andas, carlos se vendiooo {x}')
 
 
 def give_number(x):
