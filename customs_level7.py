@@ -9,6 +9,6 @@ def check_number():
     if value > 10:
         print("Greater than 10")
     else:
-        print("10 or less")
-        f'el numero ingresado fue {value}'
+        print("10 or less",f'el numero ingresado fue {value}')
+        
 
